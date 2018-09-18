@@ -1,0 +1,20 @@
+{
+  "name": "magecart-shim",
+  "version": "1.0.0",
+  "description": "A minimal Electron application to assess magecart impact",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/kempy007/magecart-shim.git",
+  "keywords": [
+    "Electron",
+    "magecart",
+    "demo"
+  ],
+  "author": "Kempy",
+  "license": "Free as in beer",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
