@@ -23,3 +23,5 @@ An electron app to assess magecart impact
 * go through checkout process, validate data has been skimmed, if not debug and reiterate.
 
 License is free as in beer
+
+Mitigation is to implement CSP header and SRI
